@@ -1,56 +1,78 @@
 # Oussama Dhia Arouay
 **Software Engineering Student**  
-Monastir, Tunisia  
+Tunis, Tunisia  
 
 📧 [oussamaarouay@gmail.com](mailto:oussamaarouay@gmail.com) | 📱 +216 92 589 103 | [LinkedIn](https://www.linkedin.com/in/arouay/) | [GitHub](https://github.com/oarouay)
 
 ---
 
 ## 📝 Summary
-As a final-year Computer Science student at ISIMM, I'm eager to apply my technical knowledge and problem-solving skills in a professional setting. I have honed my abilities in programming, web development, and data analysis, and I'm passionate about tackling challenging problems. A self-learner at heart, I'm enthusiastic about contributing to impactful projects.
+I am a software engineering student passionate about building modern applications that combine clean design with strong technical foundations. With hands-on experience in **Odoo development**, **full-stack web apps**, and **data-driven projects**, I enjoy solving complex problems and creating impactful solutions. Currently seeking opportunities to apply my skills in real-world projects and continue growing in areas like **AI integration** and **data science**.
 
 ---
 
 ## 💼 Experience
 
+### **Intern Odoo Developer – Integration Stage**  
+**Softifi** | Jun 2025 – Present | Zarzis, Tunisia  
+- Integrated and customized Odoo modules to meet client-specific needs.  
+- Developed and modified QWeb reports, including bilingual invoice templates.  
+- Debugged and optimized existing modules to improve system stability.  
+- **Technologies:** Odoo, Python, XML, QWeb, PostgreSQL  
+
+---
+
+### **Intern Odoo Developer – Marketing AI Module (Final Year Project)**  
+**Softifi** | Feb 2025 – May 2025 | Zarzis, Tunisia  
+- Designed an AI-powered marketing module in Odoo to automate and analyze digital campaigns.  
+- Implemented multi-platform scheduling and publishing for centralized campaign management.  
+- Integrated **Google Gemini API** for AI-assisted content generation and automated reporting.  
+- Built real-time dashboards linking marketing performance to sales.  
+- Deployed Odoo on **Google Cloud Platform** using Docker with SSL configuration.  
+- **Technologies:** Odoo, Python, PostgreSQL, XML, JavaScript, Google Gemini API  
+
+---
+
 ### **Intern Full Stack Web Developer**  
-**PROXIWEB** | Jun 2024 - Aug 2024 | Djerba, Tunisia  
-- **AI-Enhanced Todo List Application**  
-  - Built a full-stack MERN app with AI-powered task generation.  
-  - Developed RESTful APIs for authentication and task management.  
-  - Integrated Google's Gemini AI for task suggestions.  
-  - Secured authentication using JWT and bcrypt.  
-  - Managed data with MongoDB and Mongoose.  
-  - Created a dynamic front-end with React.js.  
-- **Technologies:** React.js, Node.js, Express.js, MongoDB, JWT, bcrypt, Google Gemini AI  
+**PROXIWEB** | Jun 2024 – Aug 2024 | Djerba, Tunisia  
+- Built a **MERN full-stack Todo app** with AI-powered task generation.  
+- Developed RESTful APIs for authentication and task management.  
+- Integrated Google Gemini for smart task suggestions.  
+- Secured authentication with JWT and bcrypt.  
+- Managed data with MongoDB and Mongoose.  
+- Developed a dynamic front-end with React.js.  
+- **Technologies:** React.js, Node.js, Express.js, MongoDB, Mongoose, JWT, bcrypt, Google Gemini AI  
 - [Link to Code](https://github.com/oarouay/ThingsToDo)  
 
 ---
 
 ## 📚 Projects
 
-### **Cloud Resume Challenge (Azure Edition)**  
-- Developed and deployed a responsive resume website with a **real-time visitor counter**.  
-- Built an Azure Function API using C# for tracking visitor data.  
-- Integrated Azure Cosmos DB for data storage and retrieval.  
-- **Technologies:** HTML, CSS, JavaScript, Azure Functions, Azure Cosmos DB  
-- [Link to Code](https://github.com/oarouay/azure-cv)
+### **Maze Generator & Solver (Academic Project)**  
+- Implemented BFS and DFS algorithms to generate and solve mazes.  
+- Modeled cells as graph nodes and walls as binary edges.  
+- Visualized maze structures and solutions using Turtle Graphics.  
+- **Technologies:** Python, Turtle  
+- [Link to Code](https://github.com/oarouay/Maze-game)  
 
 ### **Simulation Mini Project (Python Application)**  
-- Designed a Python application using Monte Carlo simulations for casino revenue maximization.  
-- Conducted statistical modeling and data visualization with Matplotlib.  
+- Developed a Monte Carlo simulation app to help casinos maximize revenue.  
+- Conducted statistical modeling and visualized results with Matplotlib.  
 - **Technologies:** Python, Matplotlib  
-- [Link to Code](https://github.com/oarouay/Simulation.git)
+- [Link to Code](https://github.com/oarouay/Simulation.git)  
 
 ---
 
 ## 🎓 Education
 
-- **Bachelor's Degree in Computer Science**  
-  **ISIMM** | Monastir, Tunisia | Expected Graduation: Jun 2025  
+- **Bachelor’s Degree in Software Engineering & Information Systems**  
+  **ISIMM** | Monastir, Tunisia | Graduated with Honors, 2025  
+
+- **1st Year Engineering in Computer Science**  
+  **ITEAM** | Monastir, Tunisia | Ongoing  
 
 - **Baccalaureate in Computer Science**  
-  **Lycee Houmet Souk** | Djerba, Tunisia | Graduated with Honors, 2022  
+  **Lycée Houmet Souk** | Djerba, Tunisia | Graduated with Honors, 2022  
 
 ---
 
@@ -58,9 +80,9 @@ As a final-year Computer Science student at ISIMM, I'm eager to apply my technic
 
 - **Programming:** Java, Python, JavaScript  
 - **Web Development:** MERN (MongoDB, Express.js, React.js, Node.js)  
-- **Database:** MySQL, MongoDB  
-- **Tools & Technologies:** Git, GitHub, PyCharm, Odoo, \LaTeX  
-- **Miscellaneous:** Matplotlib, NumPy, Microsoft Office  
+- **Databases:** PostgreSQL, MongoDB  
+- **Tools & Technologies:** Git, GitHub, PyCharm, pgAdmin, Odoo, Docker, \LaTeX  
+- **Miscellaneous:** Matplotlib, OOP, Cloud Deployment (GCP)  
 
 ---
 
