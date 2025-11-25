@@ -65,11 +65,11 @@ I am a software engineering student passionate about building modern application
 
 ## 🎓 Education
 
+- **1st Year Engineering in Computer Science**  
+  **ITEAM** | Tunis, Tunisia | Ongoing  
+
 - **Bachelor’s Degree in Software Engineering & Information Systems**  
   **ISIMM** | Monastir, Tunisia | Graduated with Honors, 2025  
-
-- **1st Year Engineering in Computer Science**  
-  **ITEAM** | Monastir, Tunisia | Ongoing  
 
 - **Baccalaureate in Computer Science**  
   **Lycée Houmet Souk** | Djerba, Tunisia | Graduated with Honors, 2022  
