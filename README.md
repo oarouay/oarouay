@@ -2,7 +2,7 @@
 **Software Engineering Student**  
 Monastir, Tunisia  
 
-📧 [oussamadarouay@gmail.com](mailto:oussamadarouay@gmail.com) | 📱 +216 92 589 103 | [LinkedIn](https://www.linkedin.com/in/arouay/) | [GitHub](https://github.com/oarouay)
+📧 [oussamaarouay@gmail.com](mailto:oussamaarouay@gmail.com) | 📱 +216 92 589 103 | [LinkedIn](https://www.linkedin.com/in/arouay/) | [GitHub](https://github.com/oarouay)
 
 ---
 
